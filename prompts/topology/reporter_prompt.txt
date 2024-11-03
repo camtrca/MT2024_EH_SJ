@@ -1,0 +1,23 @@
+You are an expert in graph theory. Based on the following propositions and analysis, determine whether all nodes in the graph can be visited in a valid order according to the given dependencies. If such an ordering exists, provide the solution.
+
+Original Problem:
+"{original_problem}"
+
+Accumulated Propositions:
+{propositions_text}
+
+Definition:
+"A topology graph is a directed graph that defines dependencies between nodes, with each edge indicating a required visit order."
+
+Please carefully analyze the propositions for any evidence that indicates the presence or absence of a valid topological ordering. Base your conclusion solely on the evidence provided.
+
+Can you conclude whether all nodes can be visited in a valid order? Please answer with 'Yes' if a valid ordering exists, or 'No' if it does not. If yes, provide the ordering and a brief explanation based on the propositions.
+
+Your response should start with 'Yes' or 'No', followed by your reasoning and the ordering if applicable.
+
+Example format:
+"Yes. The valid ordering is: 0,3,4,2,1."
+
+or
+
+"No. A valid ordering is not possible because..."

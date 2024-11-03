@@ -1,0 +1,28 @@
+You are a problem solver in graph theory. Based on the following partial graph, provide a proposition that will assist in determining whether there is a path between two specific nodes in the given undirected graph.
+
+Your proposition should include:
+- A clear and concise definition of connectivity between two nodes, if not already provided: "A connected graph is a graph in which there is a path between every pair of vertices."
+- Accurate statements of the connections for the provided nodes, matching exactly the partial graph provided.
+- Logical analysis and observations based strictly on the given edges, aiming to identify conditions that indicate the presence or absence of a path between the two nodes.
+
+Please ensure:
+- Use clear and precise language.
+- **If you can logically conclude whether there is a path between the two nodes based on the given edges, you may state this conclusion and provide your reasoning.**
+- Do not include trailing commas in lists of nodes.
+- Avoid logical fallacies and ensure that your reasoning is sound and valid.
+
+Partial Graph:
+{partial_graph}
+
+Question:
+"Is there a path between node {node_a} and node {node_b}?"
+
+Please analyze the partial graph and provide observations or propositions based on the current information. Focus on exploring possible paths, connections, and patterns that may be relevant to determining if there is a path between the two nodes.
+
+Your response should:
+- Be clear and concise.
+- Build upon previous propositions without repeating them verbatim.
+- Provide logical reasoning leading towards an answer.
+
+Hypothesis:
+{hypothesis}

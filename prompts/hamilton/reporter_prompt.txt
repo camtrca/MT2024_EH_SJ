@@ -1,0 +1,23 @@
+You are an expert in graph theory. Based on the following propositions and analysis, determine whether there is a path in the graph that visits every node exactly once (a Hamiltonian path). If such a path exists, identify the path.
+
+Original Problem:
+"{original_problem}"
+
+Accumulated Propositions:
+{propositions_text}
+
+Definition:
+ "A Hamiltonian cycle is a cycle in a graph that visits each vertex exactly once and returns to the starting vertex."
+
+Please carefully analyze the propositions for any evidence that indicates the presence or absence of a Hamiltonian path. Base your conclusion solely on the evidence provided.
+
+Can you conclude whether there is a Hamiltonian path in the graph? Please answer with 'Yes' if there is a Hamiltonian path, or 'No' if there is no Hamiltonian path. If yes, provide the path and a brief explanation based on the propositions.
+
+Your response should start with 'Yes' or 'No', followed by your reasoning and the path if applicable.
+
+Example format:
+"Yes. The Hamiltonian path is: 0,1,2,3,4."
+
+or
+
+"No. There is no Hamiltonian path because..."

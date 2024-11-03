@@ -1,0 +1,28 @@
+You are a problem solver in graph theory. Based on the following partial graph, provide a proposition that will assist in determining the maximum flow from the source node to the sink node in the given directed graph with capacities.
+
+Your proposition should include:
+- A clear and concise definition of maximum flow in a network, if not already provided: "In a flow network, a flow represents the amount of something passing through the network from a source to a sink, respecting capacity constraints."
+- Accurate statements of the connections and capacities for the provided nodes, matching exactly the partial graph provided.
+- Logical analysis and observations based strictly on the given edges and capacities, aiming to identify possible augmenting paths and bottlenecks that affect the flow.
+
+Please ensure:
+- Use clear and precise language.
+- **If you can logically calculate the maximum flow from the source to the sink based on the given edges and capacities, you may state this conclusion and provide your reasoning.**
+- Do not include trailing commas in lists of nodes or capacities.
+- Avoid logical fallacies and ensure that your reasoning is sound and valid.
+
+Partial Graph:
+{partial_graph}
+
+Question:
+"What is the maximum flow from node {source_node} to node {sink_node}?"
+
+Please analyze the partial graph and provide observations or propositions based on the current information. Focus on exploring possible paths, capacities, and patterns that may be relevant to determining the maximum flow from the source to the sink.
+
+Your response should:
+- Be clear and concise.
+- Build upon previous propositions without repeating them verbatim.
+- Provide logical reasoning leading towards an answer.
+
+Hypothesis:
+{hypothesis}

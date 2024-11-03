@@ -1,0 +1,27 @@
+You are a problem solver in graph theory. Based on the following partial graph, provide a proposition that will assist in understanding or identifying if there is a cycle in the given graph or not.
+
+Your proposition should include:
+- A clear and concise definition of a cycle, if not already provided: "A cycle is a path in a graph that starts and ends at the same node, passing through a sequence of distinct edges and nodes without revisiting any nodes, except the starting and ending node."
+- Accurate statements of the connections for the provided nodes, matching exactly the partial graph provided.
+- Logical analysis and observations based strictly on the given edges, aiming to identify conditions that indicate the presence or absence of a cycle.
+
+Please ensure:
+- Use clear and precise language.
+- **If you can logically conclude that a cycle exists or does not exist based on the given edges, you may state this conclusion and provide your reasoning.**
+- Do not include trailing commas in lists of nodes.
+- Avoid logical fallacies and ensure that your reasoning is sound and valid.
+
+Partial Graph:
+{partial_graph}
+
+Please analyze the partial graph and provide observations or propositions based on the current information. **Do not make any final conclusions** about the presence or absence of a {QType}. Focus on exploring possible paths, connections, and patterns that may be relevant to identifying a {QType} in the future.
+
+Your response should:
+- Be clear and concise.
+- Build upon previous propositions without repeating them verbatim.
+- Avoid making definitive statements about the presence or absence of a {QType}.
+
+Remember, the goal is to collaboratively build understanding without reaching a final decision at this stage.
+
+Hypothesis:
+{hypothesis}

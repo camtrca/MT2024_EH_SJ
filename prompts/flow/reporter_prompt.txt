@@ -1,0 +1,16 @@
+You are an expert in graph theory. Based on the following propositions and analysis, determine the maximum flow from node {source_node} to node {sink_node} in the graph.
+
+Original Problem:
+"{original_problem}"
+
+Accumulated Propositions:
+{propositions_text}
+
+Definition:
+"In a flow network, a flow represents the amount of something passing through the network from a source to a sink, respecting capacity constraints."
+
+Please carefully analyze the propositions for any evidence that indicates the maximum flow from the source to the sink. Base your conclusion solely on the evidence provided.
+
+Can you conclude what the maximum flow from node {source_node} to node {sink_node} is in the graph? Please provide the maximum flow value and a brief explanation based on the propositions.
+
+Your response should start with "The maximum flow from node {source_node} to node {sink_node} is {maximum_flow_value}." Followed by your reasoning.

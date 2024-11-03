@@ -1,0 +1,15 @@
+You are an expert in graph theory. Based on the following propositions and analysis, determine whether there is a cycle in the graph.
+
+Original Problem:
+"{original_problem}"
+
+Accumulated Propositions:
+{propositions_text}
+
+A cycle is a path in a graph that starts and ends at the same node, passing through a sequence of distinct edges and nodes without revisiting any nodes except the starting and ending node.
+
+Please carefully analyze the propositions for any evidence that indicates the presence or absence of a cycle. Consider both possibilities equally and base your conclusion solely on the evidence provided.
+
+Can you conclude whether there is a cycle in the graph? Please answer with 'Yes' if there is a cycle, or 'No' if there is no cycle. Provide a brief explanation based on the propositions.
+
+Your response should start with 'Yes' or 'No', followed by your reasoning.
